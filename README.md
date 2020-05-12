@@ -1,4 +1,4 @@
 # Sample
 サンプル
 sample
-sample
+samp
