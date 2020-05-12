@@ -1,2 +1,3 @@
 # Sample
 サンプル
+sample sample
