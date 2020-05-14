@@ -1,8 +1,8 @@
 package sample;
 
 public class Sample {
-  public void main(String... args) {
-	int i;
-	i++;
+  public int main(String... args) {
+    int i;
+    return i;
   }
 }
