@@ -2,7 +2,9 @@ package sample;
 
 public class Sample {
   public int main(String... args) {
-    int k;
-    return k;
+    int j = 1;
+    int k = 2;
+    
+    return j+k;
   }
 }
