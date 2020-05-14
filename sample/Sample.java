@@ -1,7 +1,8 @@
 package sample;
 
 public class Sample {
-  public void main(String... args) {
-    //System.out.println("Hello, world");
+  public int main(String... args) {
+    int i;
+    return i;
   }
 }
